@@ -8,30 +8,34 @@
 print("hello","world")
 ```
 
+3) what will the output of the below code?
+```
+print("hel",,,"eorld")
+```
 
 
-2) What will be the output of the below code?
+4) What will be the output of the below code?
 ```
 print("hello","world","earth")
 ```
 
-3) Is below code valid?
+5) Is below code valid?
 if not why?, if valid what will be the output?
 ```
 print("hello",12,24.5)
 ```
 
-4) what will the below code do?
+6) what will the below code do?
     ```
     print('hello')
     ```
 
-5) what will the below code do?
+7) what will the below code do?
     ```
     print['hello']
     ```
 
-6) which of the below brackets are valid in python?
+8) which of the below brackets are valid in python?
 ```
 print("hello")
 print{"hello"}
@@ -39,13 +43,13 @@ print["hello"]
 print<"hello">
 ```
 
-7) Write a python code that has the below output as it is
+9) Write a python code that has the below output as it is
 ```
 it's sunday
 he is "The President"
 ```
 
-8) Correct the mistake so that the output is as below
+10) Correct the mistake so that the output is as below
 ```
 i'm from sathy
 my name is "Gokul"
