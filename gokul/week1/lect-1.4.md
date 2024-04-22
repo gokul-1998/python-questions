@@ -7,6 +7,7 @@
 a=10
 print(a)
 ```
+
 2) What does the following code do?
 ```
 a=10
