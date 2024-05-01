@@ -1,0 +1,1 @@
+# print all odd number between 3 to 30 , using while loop
