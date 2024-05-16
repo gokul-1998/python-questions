@@ -3,5 +3,5 @@
 #     n=str(input())
 #     print("Which placre are you in?")
 #     n=str(input())
-#     print("Hello",n,"How is the weather in ,n )
+#     print("Hello",n,"How is the weather in" ,n )
 #     ```
