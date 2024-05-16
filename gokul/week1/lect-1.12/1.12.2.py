@@ -4,4 +4,5 @@
 #     print(x=='india')
 #     print(x=='India')
 #     print(x=="India")
+#     print(x=="india")
 #     ```

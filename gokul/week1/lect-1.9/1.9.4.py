@@ -3,7 +3,7 @@
 #     a="gokul"
 #     b="india"
 #     c=3*b
-#     d=a*b
 #     print(c)
+#     d=a*b
 #     print(d)
 #     ```
