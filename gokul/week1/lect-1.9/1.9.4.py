@@ -2,6 +2,8 @@
 #     ```
 #     a="gokul"
 #     b="india"
-#     c=a*b
+#     c=3*b
+#     d=a*b
 #     print(c)
+#     print(d)
 #     ```
