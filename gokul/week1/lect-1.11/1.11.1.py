@@ -7,4 +7,6 @@
 # print(s+t)
 # u=3
 # print(u+s)
+# print(u*t)
+# print(3.2*"gokul")
 #     ```
