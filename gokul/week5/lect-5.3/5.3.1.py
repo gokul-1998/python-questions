@@ -1,0 +1,1 @@
+# create a function obvious_sort() thta takes a list as input and returns an ascending ordered list as output
