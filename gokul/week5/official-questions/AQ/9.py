@@ -1,0 +1,2 @@
+# Problem-9
+# Write a function isort that accepts an unsorted list L of numbers as input and returns a sorted list. The original list should not be disturbed in the process. Use the insertion sort procedure that you studied in week-5 of the CT course. Also, make use of the insert function defined in the previous problem.
