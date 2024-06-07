@@ -1,0 +1,1 @@
+# A, B, C and D are four sets of numbers. Find the intersection and union of all four sets. A single line of code should do for each of the two cases. You can Google this information.
