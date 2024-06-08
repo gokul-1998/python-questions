@@ -1,0 +1,1 @@
+# write the different types of inheritance in python

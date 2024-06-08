@@ -1,0 +1,1 @@
+# write a code to demo inheritance
