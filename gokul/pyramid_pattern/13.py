@@ -1,0 +1,7 @@
+# Right Downward Triangle Pattern
+
+# *****
+#  ****
+#   ***
+#    **
+#     *
