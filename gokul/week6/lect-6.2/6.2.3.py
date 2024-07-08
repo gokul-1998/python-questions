@@ -3,3 +3,4 @@ malgudi=['It', 'was', 'Monday', 'morning.', 'Swaminathan', 'was', 'reluctant', '
 print(len(malgudi))
 
 # print all the unique words in the list , and print how many unique words are there
+
