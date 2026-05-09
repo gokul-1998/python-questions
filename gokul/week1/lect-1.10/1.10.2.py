@@ -6,7 +6,13 @@
 #     print(13%4)
 #     print(15%4)
 #     print(19%10)
+#     print(4%8)
 #     print(21%9)
 #     print(23%7)
 #     print(50%7)
+#     print(10%23)
+#     print(5%26)
+#     print(13%20)
+#     print(12%15)
+
 #     ```
