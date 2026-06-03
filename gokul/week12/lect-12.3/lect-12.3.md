@@ -1,0 +1,1 @@
+[Go through to it first](https://www.geeksforgeeks.org/python/python-itertools-accumulate/)
