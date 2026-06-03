@@ -4,4 +4,4 @@
 
 
 # In simple terms, enumerate() takes an iterable (like a list, tuple, or string) and returns an iterator that produces pairs of index and value for each item in the iterable.
-#  This is particularly useful when you need to access both the index and the value of items while iterating through a collection.
+#  This is particularly useful when you need to access both the index and the value of items while iterating through a collection./ n-
